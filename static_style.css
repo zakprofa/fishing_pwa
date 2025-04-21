@@ -1,0 +1,18 @@
+body {
+    background: #f0f8ff; /* Стандартний фон */
+}
+
+body.bg-lake {
+    background: url('https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.bg-river {
+    background: url('https://images.unsplash.com/photo-1507521628349-dee9c2d9b9b1') no-repeat center center fixed;
+    background-size: cover;
+}
+
+body.bg-forest {
+    background: url('https://images.unsplash.com/photo-1448375240586-882707db888b') no-repeat center center fixed;
+    background-size: cover;
+}
